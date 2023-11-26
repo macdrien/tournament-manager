@@ -1,3 +1,6 @@
 [submodule "tournament-manager-frontend"]
 	path = tournament-manager-frontend
 	url = git@github.com:macdrien/tournament-manager-frontend.git
+[submodule "tournament-manager-backend"]
+	path = tournament-manager-backend
+	url = git@github.com:macdrien/tournament-manager-backend.git
